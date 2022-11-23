@@ -40,18 +40,6 @@ Deal ends: December
 
 ## Tools
 
-Security For Everyone - Continuous Security Scanner & Unlimited Manual Scan \
-https://securityforeveryone.com/products/continuous-security  
-50% off with code: BLACKFRIDAY \
-Deal valid: 30th November
-
-ImmuniWeb AI Platform \
-https://www.immuniweb.com  
-Black Friday: 40% off any one-time purchase and monthly subscriptions with code: BF22-XARA \
-Thanksgiving Day: 40% off ImmuniWeb Discovery with code: 8AXN-1XYS-FMUJ \
-Deals valid only on their respective days
-
-
 Nessus (Professional or Expert) \
 https://store.tenable.com/1479/purl-webNessusOneYearOptin?x-source=BF22  
 50% off with code: TakeHalf \
@@ -93,11 +81,6 @@ https://blog.pulsedive.com/black-friday-2022/
 https://forms.gle/XApB63ZUWH5kcpns9  
 Humble Cyber Bundle - 25% off 2 or more Pulsedive Products (Pro, API, Feed)
  
-Kon-Boot - Bypass Windows / macOS Passwords \
-https://kon-boot.com/?NOVEMBER=1  
-25% off select licenses \
-Deal ends: 28th November  
-  
 ## Courses & Training
 AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security \
 https://www.appsecengineer.com/main-menu-pages/pricing  
@@ -112,7 +95,7 @@ Deal ends: 28th November
 Offensive Security - Penetration Testing Training \
 https://www.offensive-security.com/learn-one/ \
 20% off Learn One \
-Deal ends: 31st December 
+Deal nds: 31st December 
 
 Hexordia & Cyber 5W - Digital Forensics Training \
 https://www.hexordia.com/black-friday-sale  
@@ -200,16 +183,6 @@ use code: GIVETHANKS \
 \* Refer to the link for more details \
 Deal ends: 29th November, 4:59 am UTC
 
-Enciphers Training (Mobile Security 100% Hands-On Training)  \
-https://training.enciphers.com/  
-40% off at checkout with code: W1NT3R-1S-COM1NG  \
-Deal ends: December
-
-Bug Bounty Hunter - Bug Bounty Training by zseano \
-https://www.bugbountyhunter.com/membership/  
-37.33% off \
-Deal ends: 28th November 23:59:59 UTC
-
 ## Mini Courses:
 
 Play 2 Learn: Remote Facilitation of Elevation of Privilege Games \
@@ -273,11 +246,6 @@ Multiple On-Sale Kits \
 Deal Ends: November 28 
 
 ## Wearables:
-
-Security Merch (Merchandise for Hackers) \
-https://securitymerch.com  
-50% Off with code: BLACKFRIDAY22 \
-Deal Ends: November 30
 
 ## Books:
 
@@ -365,6 +333,14 @@ Deal ends: Nov 30th
 Kleen Scan AV Scanner \
 https://kleenscan.com/latest_news  
 Get yearly package for $10 (down from $180)
+
+UnderDefense Cybersecurity \
+https://underdefense.com/cyber-monday-offer/  
+20% off one Application/Network/Infrastructure Pentest \
+40% off four App Pentests (multi-year bundle) \
+20-40% Off 24×7 Managed Threat Detection and Response \
+20-40% off Incident Response Retainer \
+Deal ends: Nov 30th \
 
 -----------------------------------------------------------------------------------------
 
